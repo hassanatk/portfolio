@@ -1,5 +1,5 @@
 import hero from "../assets/hero.png";
-import studentHub from "../assets/studenthub.png";
+import studentHub from "../assets/StudentHub.png";
 import portfolio from "../assets/portfolio.png";
 
 export const portfolioData = {
